@@ -1,0 +1,4 @@
+*.ini
+*.log
+*.gif
+**/__pycache__
