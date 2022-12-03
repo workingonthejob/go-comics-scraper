@@ -33,5 +33,3 @@ class IniParser():
 if __name__ == "__main__":
     cp = IniParser('config.ini')
     print(username)
-    # cp.update_property("TEST", "Foo")
-    # cp.save_changes()
