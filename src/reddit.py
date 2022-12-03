@@ -4,7 +4,7 @@ from logging.config import fileConfig
 from praw.exceptions import APIException, ClientException, PRAWException
 from prawcore.exceptions import PrawcoreException
 from requests.exceptions import ConnectionError
-from IniParser import IniParser
+from iniparser import IniParser
 
 
 USER_AGENT = 'Posts comics from GoComics to /r/Calvin_And_Hobbes/.'

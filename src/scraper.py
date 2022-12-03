@@ -5,7 +5,7 @@ from requests.packages.urllib3.util.retry import Retry
 from datetime import datetime
 from logging.config import fileConfig
 import os
-from IniParser import IniParser
+from iniparser import IniParser
 from lxml import html
 
 
